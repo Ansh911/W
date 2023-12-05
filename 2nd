@@ -1,1 +1,86 @@
 
+What advantage does cloud computing offer to stakeholders in terms of
+accessibility?
+Answer: c) Universal access from any location
+2. How does cloud computing affect costs for stakeholders compared to
+traditional IT solutions?
+Answer: b) Decreases initial investment
+3. In terms of performance, what benefit does the cloud provide to stakeholders?
+Answer: c) Improved processing power and speed
+4. What does reliability in cloud computing refer to for stakeholders?
+Answer: c) Consistent and dependable service
+5. How does the cloud impact availability for stakeholders?
+Answer: d) Provides continuous and uninterrupted access
+6. What advantage does the cloud offer stakeholders in terms of scalability?
+Answer: d) Ability to easily scale resources up or down
+7. When would it be advisable to recommend an off-the-shelf (OTS) solution to
+stakeholders?
+Answer: d) When time is of the essence
+8. What are the benefits of recommending custom solutions to stakeholders?
+Answer: c) Tailored features and specific requirements
+9. How does cloud computing impact data security for stakeholders?
+Answer: c) Improves data protection and security measures
+10. What advantage does cloud computing offer stakeholders in terms of data
+backup and recovery?
+Answer: c) Enhanced data replication and backup processes
+
+What criteria should stakeholders consider when choosing between public,
+private, and hybrid cloud implementations?
+Answer: c) Specific security needs and compliance regulations
+2. When drawing an architectural diagram for a cloud implementation, what is
+crucial to represent accurately?
+Answer: c) Data flow and network architecture
+3. What is the primary purpose of defining requirements in a cloud
+implementation project?
+Answer: d) To ensure the project meets stakeholder expectations
+4. How do services communicate through application programming interfaces
+(APIs) in a cloud environment?
+Answer: c) Through standardized protocols and data formats
+5. What is the process of creating virtual machines in a cloud environment
+called?
+Answer: a) Virtualization only
+6. When identifying data storage requirements in a cloud implementation, what
+factors should stakeholders consider?
+Answer: c) Data security and compliance regulations
+7. What key considerations should stakeholders keep in mind when choosing a
+public cloud implementation?
+Answer: c) Shared infrastructure and security concerns
+8. What advantages does a private cloud implementation offer to stakeholders?
+Answer: c) Enhanced data privacy and control
+9. How does a hybrid cloud implementation benefit stakeholders?
+Answer: c) Flexibility in workload distribution and data management
+10. What challenges might stakeholders face when managing data storage in a
+cloud environment?
+Answer: c) Data security and compliance regulations
+
+What strategies can be employed to manage operational costs in a cloud environment?
+a) Increasing hardware investments
+b) Implementing complex infrastructure solutions
+c) Optimizing resource utilization and rightsizing
+d) Reducing data encryption measures
+Answer: c) Optimizing resource utilization and rightsizing
+Why is it essential to develop a business continuity and disaster recovery policy for a cloud
+environment?
+a) To limit data accessibility for users
+b) To decrease operational costs
+c) To ensure data redundancy and backups
+d) To reduce user support requirements
+Answer: c) To ensure data redundancy and backups
+What is the primary purpose of providing support to users in a cloud environment?
+a) To limit data accessibility
+b) To increase operational costs
+c) To ensure smooth operations and user satisfaction
+d) To reduce data encryption measures
+Answer: c) To ensure smooth operations and user satisfaction
+How can stakeholders effectively monitor cloud systems for performance and security?
+a) By reducing data redundancy measures
+b) By limiting user access and privileges
+c) By implementing comprehensive monitoring tools and protocols
+d) By decreasing support for users
+Answer: c) By implementing comprehensive monitoring tools and protocols
+What measures can be taken to ensure the security and privacy of data in a cloud environment?
+a) Reducing data backup and recovery processes
+b) Limiting user access to data
+c) Implementing robust encryption and access controls
+d) Decreasing user support and assistance
+Answer: c) Implementing robust encryption and access controls
